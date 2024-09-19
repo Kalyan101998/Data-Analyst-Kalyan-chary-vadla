@@ -15,7 +15,7 @@ ___
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 1
 * This project goal was to streamline data sourcing, storage, cleaning, transformation, and analysis, all while maintaining high standards of data security and governance. The platform was built with a focus on handling large datasets, securing sensitive information, and providing real-time insights through data visualization.
 ## Project Objective:
-*The objective of this project is to design and implement a secure AWS-based Data Analytics Platform (DAP) for processing and analyzing the City of Vancouver’s Animal Control Lost and Found inventory data. The platform ensures data protection, efficient processing, and the provision of actionable insights to assist city officials in better managing animal-related cases.
+* The objective of this project is to design and implement a secure AWS-based Data Analytics Platform (DAP) for processing and analyzing the City of Vancouver’s Animal Control Lost and Found inventory data. The platform ensures data protection, efficient processing, and the provision of actionable insights to assist city officials in better managing animal-related cases.
 * Designing & Implementing DAP.
 ## Methodology:
 * The process of DAP designing and implementation is as follows.

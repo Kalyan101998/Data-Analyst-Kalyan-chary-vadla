@@ -19,11 +19,33 @@ ___
 * Designing & Implementing DAP.
 ## Methodology:
 * The process of DAP designing and implementation is as follows.
-1. Data Security Implementation
-2. Data Pipeline Design
-3. Data Monitoring and Alerts
-4. Data Analysis and Visualization
+1. Data Analytical Question Formulation
+2. Data Discovery
+3. Storage Design
+4. Data Preparation
+5. Data Injection
+6. Data Pipeline Design
+7. Data Cleaning
+8. Data Structuring
+9. Data Pipeline Implementation
+10. Data Analysis
+11. Data Visualization
+12. Data Publishing
 
+## Tools and Technologies:
+- AWS S3: For secure data storage and versioning.
+- AWS KMS: To encrypt and protect data.
+- AWS Glue: For building the data pipeline and automating ETL processes.
+- Amazon CloudWatch: To monitor system health and set up alarms.
+- AWS CloudTrail: For tracking user activities and maintaining compliance.
+- AWS Athena: For SQL-based querying of the processed data.
+
+
+## Deliverables
+- A fully configured AWS S3 environment with encryption, versioning, and replication.
+- A scalable data pipeline via AWS Glue for processing the animal control data.
+- Custom dashboards in Amazon CloudWatch for monitoring and visualizing data trends.
+- Documentation covering all architectural decisions, security measures, and monitoring strategies.
 
 ___
 # [AWS-Project 2](https://kalyan101998.github.io/AWS-Project-2/)
@@ -40,12 +62,9 @@ ___
 3. Data Monitoring
 
 ___
-## Summary of Insights
-- **Permit Issuance**: Analysis of the permits revealed which departments issued the most permits in 2024 and 2025, helping to adjust resources accordingly.
-- **Performance Trends**: Monthly and yearly trends helped city officials predict periods of high permit activity and improve resource planning.
-- **Data Security**: Strong encryption and governance measures ensured the data remained protected and compliant with public health regulations.
-- **System Monitoring**: The monitoring setup provided real-time insights into system health and performance, allowing for cost-effective data management.
+## Insights and Findings
+- Identified trends in lost and found animals over the years, aiding in more effective resource allocation.
+- Ensured secure and compliant storage of sensitive data.
+- Provided real-time monitoring capabilities to proactively manage costs and system performance.
 ## Conclusion
-- This project demonstrated how AWS services can be effectively leveraged to build a scalable and secure data analytics platform for managing and analyzing water system permits in Vancouver.
-- By implementing a robust pipeline for data processing and securing the data through encryption and governance measures, the city can now make data-driven decisions with confidence.
-- Stakeholders were provided with actionable insights, leading to improved water system performance and public health safety.
+* This project demonstrates how AWS services can be used to build a secure, scalable, and efficient Data Analytics Platform for municipal data management. The setup facilitated better decision-making for the City of Vancouver by providing real-time insights into the animal control inventory, ensuring high standards of data security and governance.

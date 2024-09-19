@@ -50,9 +50,9 @@ ___
 ___
 # [AWS-Project 2](https://kalyan101998.github.io/AWS-Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
-* The City of Vancouver requires a robust and efficient data platform to manage and analyze safety-issued operating permits for water systems, including cooling towers, water features, and other public systems.
+* This project involves setting up a comprehensive data analytics platform using AWS services to manage the City of Vancouver’s animal control data. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
-* This project aims to design and implement a Data Analytics Platform (DAP) using Amazon Web Services (AWS) to store, process, and analyze water system permits to ensure public health standards are met and to streamline responses to any identified issues.
+* This project aims to design and implement a Data Analytics Platform (DAP) using Amazon Web Services (AWS) to Data Protection, Governance, and Monitoring
 ## Project Objective:
 * Designing & Implementing DAP.
 ## Methodology:

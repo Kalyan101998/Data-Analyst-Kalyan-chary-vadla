@@ -9,7 +9,7 @@ Due Date: 18th September 2024 <br>
 </p>
 
 ___
-# [Project 1](https://chaitra29-lab.github.io/Project-1/)
+# [AWS-1 Project 1](https://kalyan101998.github.io/AWS-Project-1/)
 # Project Description: Implementation and Analysis of Safety-Issued Operating Permits Using AWS
 * The City of Vancouver requires a robust and efficient data platform to manage and analyze safety-issued operating permits for water systems, including cooling towers, water features, and other public systems.
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 1
@@ -32,7 +32,7 @@ ___
 12. Data Publishing
 
 ___
-# [Project 2](https://chaitra29-lab.github.io/Project-2/)
+# [AWS-Project 2](https://kalyan101998.github.io/AWS-Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
 * The City of Vancouver requires a robust and efficient data platform to manage and analyze safety-issued operating permits for water systems, including cooling towers, water features, and other public systems.
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
